@@ -1,4 +1,4 @@
-# Racing_Game
+# Car_Driving_Game
 Racing Game Built with javascript.
 Hello I am Anik Chakraborty.
 This is a simple racing game using only javascript , html and css.
